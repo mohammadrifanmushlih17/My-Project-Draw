@@ -113,7 +113,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="1st - floor" id="8kGiZi48VBvHHr1KHaE0">
-    <mxGraphModel dx="3794" dy="1390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2404" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="PMHNIFOg2gqeF-ShbbtQ-0" />
         <mxCell id="PMHNIFOg2gqeF-ShbbtQ-1" parent="PMHNIFOg2gqeF-ShbbtQ-0" />
@@ -138,6 +138,9 @@
         <mxCell id="PMHNIFOg2gqeF-ShbbtQ-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;direction=north;" vertex="1" parent="PMHNIFOg2gqeF-ShbbtQ-5">
           <mxGeometry x="13" y="143" width="81" height="76.24" as="geometry" />
         </mxCell>
+        <mxCell id="kTlfu9sVM4G75efGcl98-24" value="" style="fontColor=#333333;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#f5f5f5;strokeColor=#666666;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;direction=east;flipH=1;" vertex="1" parent="PMHNIFOg2gqeF-ShbbtQ-5">
+          <mxGeometry x="224.32999999999993" y="11" width="40.67" height="30.5" as="geometry" />
+        </mxCell>
         <mxCell id="PMHNIFOg2gqeF-ShbbtQ-9" value="" style="group" vertex="1" connectable="0" parent="PMHNIFOg2gqeF-ShbbtQ-1">
           <mxGeometry x="475" y="30" width="275" height="220" as="geometry" />
         </mxCell>
@@ -149,6 +152,9 @@
         </mxCell>
         <mxCell id="PMHNIFOg2gqeF-ShbbtQ-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;direction=north;" vertex="1" parent="PMHNIFOg2gqeF-ShbbtQ-9">
           <mxGeometry x="13" y="143" width="81" height="76.24" as="geometry" />
+        </mxCell>
+        <mxCell id="kTlfu9sVM4G75efGcl98-9" value="" style="fontColor=#333333;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#f5f5f5;strokeColor=#666666;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;direction=east;flipH=1;" vertex="1" parent="PMHNIFOg2gqeF-ShbbtQ-9">
+          <mxGeometry x="225.32999999999993" y="12" width="40.67" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="PMHNIFOg2gqeF-ShbbtQ-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=strokeColor;" vertex="1" parent="PMHNIFOg2gqeF-ShbbtQ-1">
           <mxGeometry x="956" y="30" width="266" height="220" as="geometry" />
@@ -171,6 +177,9 @@
         <mxCell id="PMHNIFOg2gqeF-ShbbtQ-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;direction=north;" vertex="1" parent="PMHNIFOg2gqeF-ShbbtQ-16">
           <mxGeometry x="13" y="143" width="81" height="76.24" as="geometry" />
         </mxCell>
+        <mxCell id="kTlfu9sVM4G75efGcl98-5" value="" style="fontColor=#333333;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#f5f5f5;strokeColor=#666666;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;direction=east;flipH=1;" vertex="1" parent="PMHNIFOg2gqeF-ShbbtQ-16">
+          <mxGeometry x="225.32999999999993" y="12" width="40.67" height="30.5" as="geometry" />
+        </mxCell>
         <mxCell id="PMHNIFOg2gqeF-ShbbtQ-20" value="" style="group" vertex="1" connectable="0" parent="PMHNIFOg2gqeF-ShbbtQ-1">
           <mxGeometry x="1487" y="30" width="275" height="220" as="geometry" />
         </mxCell>
@@ -182,6 +191,9 @@
         </mxCell>
         <mxCell id="PMHNIFOg2gqeF-ShbbtQ-23" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;direction=north;" vertex="1" parent="PMHNIFOg2gqeF-ShbbtQ-20">
           <mxGeometry x="13" y="143" width="81" height="76.24" as="geometry" />
+        </mxCell>
+        <mxCell id="kTlfu9sVM4G75efGcl98-22" value="" style="fontColor=#333333;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#f5f5f5;strokeColor=#666666;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;direction=east;flipH=1;" vertex="1" parent="PMHNIFOg2gqeF-ShbbtQ-20">
+          <mxGeometry x="235.32999999999993" y="21" width="40.67" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="PMHNIFOg2gqeF-ShbbtQ-24" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=west;" vertex="1" parent="PMHNIFOg2gqeF-ShbbtQ-1">
           <mxGeometry x="735" y="30" width="275" height="10" as="geometry" />
@@ -209,6 +221,12 @@
         </mxCell>
         <mxCell id="kTlfu9sVM4G75efGcl98-3" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="PMHNIFOg2gqeF-ShbbtQ-1">
           <mxGeometry x="1754" y="242" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="kTlfu9sVM4G75efGcl98-4" value="" style="fontColor=#333333;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#f5f5f5;strokeColor=#666666;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;direction=east;flipH=1;" vertex="1" parent="PMHNIFOg2gqeF-ShbbtQ-1">
+          <mxGeometry x="1180" y="42" width="40.67" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kTlfu9sVM4G75efGcl98-26" value="" style="fontColor=#333333;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#f5f5f5;strokeColor=#666666;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;direction=east;flipH=1;" vertex="1" parent="PMHNIFOg2gqeF-ShbbtQ-1">
+          <mxGeometry x="167.32999999999993" y="42" width="40.67" height="30.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
