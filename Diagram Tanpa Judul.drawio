@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.8" pages="4">
   <diagram name="1st - floor" id="8kGiZi48VBvHHr1KHaE0">
-    <mxGraphModel dx="2649" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2649" dy="1553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="PMHNIFOg2gqeF-ShbbtQ-0" />
         <mxCell id="PMHNIFOg2gqeF-ShbbtQ-1" parent="PMHNIFOg2gqeF-ShbbtQ-0" />
@@ -208,11 +208,17 @@
         <mxCell id="aC1jxet6ail8Giww1qYU-0" value="Perpustakaan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;rotation=90;" vertex="1" parent="PMHNIFOg2gqeF-ShbbtQ-1">
           <mxGeometry x="1754.27" y="121" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DD0l_aq70PI9Rykx_O_Y-0" value="60 Meter" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-15;labelBackgroundColor=none;" vertex="1" parent="PMHNIFOg2gqeF-ShbbtQ-1">
+          <mxGeometry x="-50" width="1870" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="DD0l_aq70PI9Rykx_O_Y-1" value="6 Meter" style="shape=dimension;direction=north;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;labelBackgroundColor=none;horizontal=0;spacingBottom=3;" vertex="1" parent="PMHNIFOg2gqeF-ShbbtQ-1">
+          <mxGeometry x="1824" y="32" width="32" height="418" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="2nd - floor" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
-    <mxGraphModel dx="2320" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3759" dy="2097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -440,6 +446,12 @@
         </mxCell>
         <mxCell id="ydz5X688yI9I2yQTL0hX-1" value="Ruangan Bimbingan Konseling" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1721.41" y="123.87" width="125.73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eIJl8cJRdEkwa-kl0FWS-1" value="60 Meter" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-15;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-50" width="1870" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="eIJl8cJRdEkwa-kl0FWS-2" value="6 Meter" style="shape=dimension;direction=north;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;labelBackgroundColor=none;horizontal=0;spacingBottom=3;" vertex="1" parent="1">
+          <mxGeometry x="1824" y="32" width="32" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -837,7 +849,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="4nd - floor" id="ZthiirFhtstBW_0r2K9D">
-    <mxGraphModel dx="2156" dy="1311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4259" dy="2297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1299" pageHeight="846" background="none" math="1" shadow="0">
       <root>
         <mxCell id="AxLfucsu0JD6i-rE_41h-0" />
         <mxCell id="AxLfucsu0JD6i-rE_41h-1" parent="AxLfucsu0JD6i-rE_41h-0" />
